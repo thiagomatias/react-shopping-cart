@@ -1,3 +1,3 @@
 # react shopping cart
 
-carrinho de comprar criado com a tecnologia react.
+carrinho de compras criado com a tecnologia react.
