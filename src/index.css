@@ -67,3 +67,15 @@ align-items: center;
 .button.primary{
     background-color: #f0c040;
 }
+
+/* classe que faz o controle dos filtros -> filter */
+
+.filter{
+    display:flex;
+    padding:1rem;
+    margin:1rem;
+    border-bottom: 0.1rem #c0c0c0 solid;
+    justify-content: space-between;
+}
+
+.filter div{flex: 1;}
